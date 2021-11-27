@@ -314,6 +314,7 @@ class SingleLinkedList {
     }
 }
 
+
 // 定义HeroNode,每个HeroNode对象就是一个节点
 class HeroNode {
     public int no;
